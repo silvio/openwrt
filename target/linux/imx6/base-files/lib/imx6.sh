@@ -43,6 +43,10 @@ imx6_board_detect() {
 		name="wandboard"
 		;;
 
+	"Data Modul eDM-QMX6 Board")
+		name="edmqmx6"
+		;;
+
 	*)
 		name="generic"
 		;;
